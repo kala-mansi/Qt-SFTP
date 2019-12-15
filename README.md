@@ -1,6 +1,8 @@
 # Qt-SFTP
 Qt Based SFTP,Contained Qt4 and Qt5 version
 
+在windows下使用mingw编译,不支持microsoft vs
+
 # 基本功能：
 1.功能实现了指定文件后缀名定时上传功能。   
 2.sftp实现通过密码和秘钥方式上传。   
